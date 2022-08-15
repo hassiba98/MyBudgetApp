@@ -1,2 +1,2 @@
 # MyBudgetApp
-app 
+mobile app - expo project
